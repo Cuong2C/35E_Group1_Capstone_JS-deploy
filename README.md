@@ -1,2 +1,1 @@
-# 35E_Group1_Capstone_JS-deploy
-35E_Group1_Capstone_JS deploy
+# 35E_Group1_Capstone_JS
